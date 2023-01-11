@@ -7,4 +7,4 @@
 3. 在 `Branch`处，将下拉框的 `None` 设置为 `Master`，保存
 
 - 直接访问想要展示的网页文件路径
-比如 https://github.com/Claus-fj/html-demo/tree/main/css3-text.html
+比如 https://claus-fj.github.io/html-demo/css3-text.html

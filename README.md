@@ -9,4 +9,4 @@
 
 格式为 https:// [用户名] .github.io/ [仓库名] / [文件路径] 
 
-比如这个奇丑的界面 https://claus-fj.github.io/html-demo/css3-text.html
+比如这个奇丑的界面 https://clau_Vu.github.io/html-demo/css3-text.html
